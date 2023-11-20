@@ -1,0 +1,14 @@
+.desktopMenu{
+    width:400px;
+    display:flex;
+    justify-content:space-between;
+    margin-left:90px;
+    margin-top:40px;
+}
+.desktopMenu a{
+    color:white;
+    text-decoration:none;
+}
+.desktopMenu a:hover{
+    color: #F86F03;
+}

@@ -1,0 +1,17 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  text-decoration:none;
+  background:transparent;
+}
+body{
+  overflow: hidden;
+  overflow-y: scroll;
+    
+}
+.header{
+  display:flex;
+  background-color:#170550;
+  height:100px;
+}

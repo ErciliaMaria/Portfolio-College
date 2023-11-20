@@ -1,0 +1,8 @@
+
+.desktopMain{
+    background: #31065A;
+    height:776px;
+    width:1440px;
+    display:flex;
+    justify-content:center;
+}

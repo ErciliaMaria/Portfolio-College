@@ -1,14 +1,11 @@
-import Cabecalho from "./components/Cabecalho"
-import Principal from "./components/Principal"
+import "./assets/style/global.css"
+import HomeView from "./views/home/HomeView.jsx"
 
 function App() {
   
-
   return (
     <>
-      <Cabecalho />
-
-      <Principal/>
+      <HomeView />
       
     </>
   )
