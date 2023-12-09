@@ -1,13 +1,20 @@
-import Header from "../../components/Header/index.jsx";
-import Main from "../../components/Main/index.jsx";
-import About from "../../components/About/index.jsx"
-
+import AppHeader from "../../components/AppHeader/index.jsx";
+import AppMain from "../../components/AppMain/index.jsx";
+import AppAbout from "../../components/AppAbout/index.jsx"
+import AppServ from "../../components/AppServ/index.jsx"
+import AppSkills from "../../components/AppSkills/index.jsx"
+import AppPortfolio from "../../components/AppPortfolio/index.jsx"
+import AppContact from "../../components/AppContact/index.jsx"
+import AppFooter from "../../components/AppFooter/index.jsx"
 export default function HomeView ()  {
     return(
         <>
-        < Header />
-        < Main />
-        < About />
+        < AppMain />
+        < AppAbout title="Me"/>
+        < AppServ title="Service"/>
+        < AppSkills title="Services" />
+        < AppPortfolio title="Portfolio"/>
+        < AppContact/>
         </>
     )
 }

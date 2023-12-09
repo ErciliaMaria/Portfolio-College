@@ -1,0 +1,19 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  text-decoration:none;
+  background:transparent;
+}
+body{
+  overflow: hidden;
+  overflow-y: scroll;
+    
+}
+.header{
+  display:flex;
+  justify-content:space-between;
+  align-items: center;
+  background-color:#170550;
+  padding:15px 150px;
+}

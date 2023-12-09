@@ -1,0 +1,49 @@
+.desktopService{
+    background-color:#31065A;
+    height:800px;
+}
+.title-service{
+    padding:30px 0 10px 0 ;
+    margin:0 auto;
+    text-align:center;
+    width:200px;
+    border-bottom:3px solid #fff;
+}
+.title-service h2{
+    color:white;
+}
+.title-service span{
+    color:#f86f03;
+    margin-left:10px;
+}
+.group-servic{
+    display:flex;
+    justify-content: center;
+    gap:2em;
+    margin-top:130px;
+}
+.list-serv{
+    background-color:#fff;
+    border-radius:9px;
+    width:367px;
+    height:399px;
+    text-align:center;
+}
+.list-serv img{
+    margin:50px 150px;
+    width:80px;
+    height:80px;
+}
+.list-serv h3 {
+    color: #170550;
+    height:30px;
+    width:217px;
+    margin-left:80px;
+}
+.list-serv p{
+    color:#170550;
+    line-height: 20px;
+    width:305px;
+    height:150px;
+    margin:30px 0 0 30px;
+}
