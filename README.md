@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 
 # Portfolio-College
 Projeto de Portfolio para aprender React.
+<img src="/src/assets/image/projeto.png">
