@@ -3,12 +3,12 @@ import "./style.css"
 import { Link } from "react-router-dom";
 
 
-function AppAbout (prop){
+function AppAbout ({title}){
     return(
         
         <div className="desktopAbout">
             <div className="title-about">
-                <h2>About<span>{prop.title}</span></h2>
+                <h2>About<span>{title}</span></h2>
             </div>
             <div className="about-section">
                 <div className="image-about">

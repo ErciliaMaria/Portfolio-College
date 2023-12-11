@@ -7,12 +7,12 @@ import Portfolio6 from "../../assets/image/Rectangle 25.png"
 import Portfolio7 from "../../assets/image/Rectangle 26.png"
 import Portfolio8 from "../../assets/image/Rectangle 27.png"
 import "./style.css"
-export default function AppPortfolio(props){
+export default function AppPortfolio({title}){
     return(
         
         <div className="desktop-portfolio">
             <div className="title-portfolio">
-                <h2>{props.title}</h2>
+                <h2>{title}</h2>
             </div>
             <div className="section-portfolios">
                 <div className="opcacity">

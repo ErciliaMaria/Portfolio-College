@@ -8,7 +8,7 @@ function AppServ({title}) {
         
             <div className="desktopService">
                 <div className='title-service'>
-                    <h2>My <span>{title}</span></h2>
+                    <h2>My  {title}</h2>
                 </div>
                 <div className="group-servic">
                     <div className="list-serv">

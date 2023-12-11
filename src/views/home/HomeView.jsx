@@ -12,7 +12,7 @@ export default function HomeView ()  {
         < AppMain />
         < AppAbout title="Me"/>
         < AppServ title="Service"/>
-        < AppSkills title="Services" />
+        < AppSkills title="Skills" />
         < AppPortfolio title="Portfolio"/>
         < AppContact/>
         </>

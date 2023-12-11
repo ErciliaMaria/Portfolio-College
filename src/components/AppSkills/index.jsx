@@ -1,10 +1,10 @@
 import "./style.css"
- export default function AppSkills (prop){
+ export default function AppSkills ({title}){
     return(
         
         <div className="desktopSkills">
             <div className="title-skills">
-                <h2>My <span>{prop.title}</span></h2>
+                <h2>My <span>{title}</span></h2>
             </div>
             <div className="components-skills">
                 <div className="list-skills">
