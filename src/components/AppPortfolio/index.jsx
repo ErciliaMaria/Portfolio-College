@@ -15,7 +15,7 @@ export default function AppPortfolio({title}){
                 <h2>{title}</h2>
             </div>
             <div className="section-portfolios">
-                <div className="opcacity">
+                <div className="opacity">
                     <img src={Portfolio1} alt="img-1" />
                 </div>
                 <img src={Portfolio2} alt="img-2" />

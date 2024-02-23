@@ -11,7 +11,6 @@ function AppNav(){
             <Link to="/services">Services</Link >
             <Link to="/skills">Skills</Link>
             <Link to="/portfolio">Portfolio</Link>
-            <a href="#">Portfolio</a>
             <a href="#">Contact</a>
            </div>
         
